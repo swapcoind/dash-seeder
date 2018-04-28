@@ -1,7 +1,7 @@
-dash-seeder
+swap-seeder
 ==============
 
-dash-seeder is a crawler for the Dash network, which exposes a list
+swap-seeder is a crawler for the Swap network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
